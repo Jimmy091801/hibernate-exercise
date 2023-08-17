@@ -11,7 +11,7 @@ import org.hibernate.Transaction;
 
 import core.util.HibernateUtil;
 
-@WebFilter("/*")
+//@WebFilter("/*")
 public class HibernateFilter extends HttpFilter {
 	private static final long serialVersionUID = 1L;
 

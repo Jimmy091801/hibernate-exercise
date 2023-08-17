@@ -8,7 +8,7 @@ import javax.servlet.annotation.WebListener;
 
 //import static core.util.HibernateUtil.*;
 
-@WebListener
+//@WebListener
 public class HibernateListener implements ServletContextListener{
 	
 	@Override
